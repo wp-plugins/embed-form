@@ -1,7 +1,7 @@
 === Embed Form ===
 Contributors: jotform
 Donate link: N/A
-Tags: jotform, form, feedback, button, survey, forms
+Tags: jotform, form, embed, contact form, survey form, online form, web form, online forms, web forms
 Requires at least: 3.3
 Tested up to: 3.9
 Stable tag: 1.1
